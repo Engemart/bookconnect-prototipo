@@ -20,6 +20,6 @@ Este repositório contém a estruturação inicial do aplicativo **BookConnect**
 
 ---
 
-## 🧭 Fluxo de Telas (Exemplo)
+## 🧭 Fluxo de Telas
 
 
