@@ -1,1 +1,7 @@
+tela login; https://www.figma.com/design/BGKZD0VGJ7F5Tpp1QfCKWY/bookconnect?node-id=0-1&t=sZOSk3bQA26DofFZ-1
 
+tela carrinho;https://www.figma.com/design/BGKZD0VGJ7F5Tpp1QfCKWY/bookconnect?node-id=7-3&t=sZOSk3bQA26DofFZ-1
+
+detalhes do livro; https://www.figma.com/design/BGKZD0VGJ7F5Tpp1QfCKWY/bookconnect?node-id=15-3&t=sZOSk3bQA26DofFZ-1
+
+home;https://www.figma.com/design/BGKZD0VGJ7F5Tpp1QfCKWY/bookconnect?node-id=15-2&t=sZOSk3bQA26DofFZ-1
